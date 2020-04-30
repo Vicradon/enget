@@ -1,0 +1,26 @@
+{
+  "name": "enget",
+  "version": "0.0.1",
+  "description": "A service that delivers daily nuggets about engineering to engineering students",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vicradon/enget.git"
+  },
+  "keywords": [
+    "sms",
+    "voice"
+  ],
+  "author": "Chukwujama Osinachi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vicradon/enget/issues"
+  },
+  "homepage": "https://github.com/Vicradon/enget#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
